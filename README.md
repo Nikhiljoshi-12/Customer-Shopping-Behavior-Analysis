@@ -57,14 +57,10 @@ This project analyzes customer shopping behavior to understand purchasing patter
 
 
 **## Project Files**
-
-\- Jupyter Notebook
-
-\- CSV Dataset
-
-\- SQL Queries
-
-\- Power BI Dashboard
+- CUSTOMER_SHOPPING_BEHAVIOR_ANALYSIS.ipynb – Python analysis
+- customer_shopping_behavior.csv – Dataset
+- customer_behavior_sql_queries.sql – SQL queries
+- customer_shopping_analysis.pbix – Power BI dashboard
 
 
 
